@@ -1,7 +1,8 @@
-# Olist-E-commerce-Analysis-Project
+# ![image](https://github.com/disha1129/Olist-E-commerce-Analysis-Project/assets/84631602/af263169-5b74-427f-8f93-56b932124a37)
+ Olist-E-commerce-Analysis-Project
 
 
-![ecommerce (1)](https://github.com/disha1129/Olist-E-commerce-Analysis-Project/assets/84631602/c5d272fe-1515-4036-8aec-9c7da5d38bb4)
+
 
 # Introduction:
 The Olist Store Analysis project aims to analyze customer purchasing patterns and payment statistics on an E-commerce platform, Olist. This project covers several key performance indicators (KPIs) such as weekday vs weekend sales, payment statistics, delivery time, and customer behavior. The analysis is based on nine CSV files, which are cleaned and manipulated to extract valuable insights.
